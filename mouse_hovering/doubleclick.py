@@ -1,9 +1,12 @@
-from selenium.webdriver import Chrome
+from selenium.webdriver import Chrome,Firefox
 from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.firefox.options import Options
 
-driver=Chrome()
+
+
+driver=Firefox()
 driver.get("https://testautomationpractice.blogspot.com/")
 driver.implicitly_wait(10)
 driver.maximize_window()
@@ -12,3 +15,5 @@ ele=driver.find_element(By.CSS_SELECTOR,"#HTML10 > div:nth-child(2) > button:nth
 action=ActionChains(driver)
 action.double_click(ele).perform()
 sleep(3)
+print(driver.title)
+

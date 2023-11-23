@@ -1,0 +1,45 @@
+1698336671290	geckodriver	INFO	Listening on 127.0.0.1:57012
+1698336674381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileyd7UTX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698336675545	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698336675704	Marionette	INFO	Listening on port 57055
+WebDriver BiDi listening on ws://127.0.0.1:57013
+Read port: 57055
+1698336676303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57013/devtools/browser/06464f2e-3791-4663-aa9d-06251e091e53
+1698336708456	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\dell\AppData\Local\Temp\rust_mozprofileyd7UTX\bookmarkbackups\bookmarks-2023-10-27.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\dell\AppData\Local\Temp\rust_mozprofileyd7UTX\bookmarkbackups\bookmarks-2023-10-27.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698336792025	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698336792166	Marionette	INFO	Listening on port 57501
+WebDriver BiDi listening on ws://127.0.0.1:57468
+Read port: 57501
+1698336792668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57468/devtools/browser/7482bff8-51c5-40df-960f-af548e0f866e
+1698336824615	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58341
+1698337068158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileKmDh2z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698337069540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698337069793	Marionette	INFO	Listening on port 58379
+WebDriver BiDi listening on ws://127.0.0.1:58342
+Read port: 58379
+1698337070779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58342/devtools/browser/2d46b7e0-234d-421a-ade2-a14d9b8a39cb
+1698337099650	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\dell\AppData\Local\Temp\rust_mozprofileKmDh2z\bookmarkbackups\bookmarks-2023-10-27.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
